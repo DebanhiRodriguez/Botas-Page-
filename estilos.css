@@ -1,0 +1,45 @@
+body{
+    background-color: lightblue;
+    color: rgb(9, 65, 83);
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+/*Así se pone un comentario*/
+
+h1, p{
+    color: #090e3a;
+}
+
+h3{
+    color: rgb(5, 92, 173);
+}
+
+.img1{
+    width: 500px;
+    border-style: groove;
+    border-width: 7px;
+    border-color: rgb(77, 131, 231);
+    margin-left: 100px;
+    margin-top: 30px;
+    padding: 2px;
+}
+
+.img2{
+    width: 250px;
+    height: 300px;
+    border-style: groove;
+    border-width: 7px;
+    margin-left: 700px;
+    margin-top: -1000px;
+    border-color: aqua;
+}
+
+footer{
+    background-color: beige;
+}
+
+small, a{
+    color: #090e3a;
+    margin-bottom: 40px;
+}
